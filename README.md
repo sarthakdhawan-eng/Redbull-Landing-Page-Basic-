@@ -1,4 +1,4 @@
-# Red Bull — Gives You Wings
+# Red Bull — Gives You Wingggs
 
 <p align="center">
   <img src="./pics/logo.png" alt="Red Bull logo" width="220">
