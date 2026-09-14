@@ -48,16 +48,8 @@
   <img src="./pics/lightbluew.webp" alt="Light Blue Edition can" height="220">
 </p>
 
-## Demo recording
 
-To add a GitHub-hosted recording, drag an `.mp4` or `.webm` file into a pull request, issue, or discussion and paste the generated URL below:
-
-```md
-https://github.com/<your-account>/<your-repository>/assets/<asset-id>
-```
-
-GitHub renders the uploaded video directly in the README. A short recording should show:
-
+##Features
 1. The carousel auto-advancing between flavors.
 2. Hover pause and the previous/next controls.
 3. Scroll reveal and parallax motion.
